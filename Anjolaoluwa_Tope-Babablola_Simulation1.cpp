@@ -27,8 +27,10 @@ int main()
 	cin >> landingtime;
 	cout << "* 2)Pease can you give an estimate of the amount of time needed for one plane to takeoff                          *" << endl;
 	cin >> takeofftime;
+	//how long does it take for a plane to arive in the landing queue
 	cout << "* 1)Please can you give an estimate of the average amount of time between arrival of planes to the landing queue  *" << endl;
 	cin >>landing_prob;
+	//how long does it take for a plane to arive in the take0ff queue
 	cout << "* 2)Pease can you give an estimate  the average amount of time between arrival of planes to the take0ff queue     *" << endl;
 	cin >> take_off_prob;
 	cout << "* 4)Please can you give an estimate of the maximum amount of time that a plane can stay                           *" << endl;
