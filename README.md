@@ -7,4 +7,4 @@ queue of planes waiting to take off. However, only one plane can use the runway 
 
 This simulation can be used, among other things, for deciding when the air traffic has become so heavy that a second runway must be built. Hence, the simulation will simulate conditions that would be a disaster, in which planes crash because they run out of fuel while waiting too long in the landing queue.We will assume all planes can remain in the queue the same amount of time before they run out of fuel. If a plane runs out of fuel, the fact that the plane crashed is recorded, that plane is discarded, and the next plane is processed.
 
-To run this simualtion click here: 
+To run this simualtion click here: https://airport-runway-simulation.anjolatopebabal.repl.run/
